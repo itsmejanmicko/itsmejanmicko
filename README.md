@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Mikko Mejia</h1>
-<h3 align="center">a dedicated and enthusiastic individual with a strong desire to explore the world of technology and software development. I thrive on challenges and am always eager to learn new skills, tools, and languages that can enhance my coding abilities.</h3>
+<h3 align="center">tatamad pa ako.</h3>
 
 - 🔭 I’m currently working on **Cloning Stuff**
 
